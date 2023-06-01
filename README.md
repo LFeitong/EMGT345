@@ -1,1 +1,3 @@
-# EMGT345
+
+EMGT345
+Sorting Visualizer
